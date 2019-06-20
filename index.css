@@ -1,16 +1,25 @@
-body{margin: 5%; text-align: center;}
+body{text-align: center;}
+/* Title Section */
+#title{background-color:#F3C1C6;}
 /* NAVIGATION */
-.logo-image{padding-bottom: 2%;}
-.navbar{padding: 0 0 2rem;font-family: 'Montserrat', sans-serif;}
+.logo-image{padding-bottom: 1%;text-align: left;}
+.navbar{padding-bottom:1%; font-family: 'Montserrat', sans-serif;}
 .nav-item{padding: 0px 18px;font-family: 'Montserrat', sans-serif;}
 .navbar-nav {float:none; margin: 0 auto; display: block; text-align: center;}
 .navbar-nav > li {display: inline-block; float:none;}
-.fas{padding-top:1.5rem; padding-bottom: 2.5rem; padding-left: 1rem; padding-right: 1rem;}
 /* ABOUT SECTION */
-.about-title{font-family: 'Playfair Display', serif; margin-bottom: 2.5rem;}
-.about-body{font-family: 'Quicksand', sans-serif;}
+#About{background-color:#B0E0A8;}
+.about-title{font-family: 'Playfair Display', serif; margin-bottom: 2rem; padding-top: 2%;}
+.about-body{font-family: 'Quicksand', sans-serif; line-height: 10px;}
+.fa-heart{color:red;}
+h4{padding-bottom: 2rem; padding-top:2rem; line-height: 2px;}
 
 /* Contact Section */
 .contact-main{padding-top:1rem;}
 /* Social Section */
 .fab{color: blue;}
+
+/* Footer Section */
+.fa-facebook-f{padding-top:2rem; padding-left: 10px; padding-right: 10px; padding-bottom: 0;}
+.fa-envelope{padding-top:2rem; padding-left: 10px; padding-right: 1rem; padding-bottom: 0; color:black;}
+.copyright{padding-top:2%;}

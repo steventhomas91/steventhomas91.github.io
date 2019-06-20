@@ -1,6 +1,6 @@
 body{text-align: center;}
 /* Title Section */
-#title{background-color:#F3C1C6;}
+#title{background-color:#fff;}
 /* NAVIGATION */
 .logo-image{padding-bottom: 1%;text-align: left;}
 .navbar{padding-bottom:1%; font-family: 'Montserrat', sans-serif;}
@@ -8,7 +8,7 @@ body{text-align: center;}
 .navbar-nav {float:none; margin: 0 auto; display: block; text-align: center;}
 .navbar-nav > li {display: inline-block; float:none;}
 /* ABOUT SECTION */
-#About{background-color:#B0E0A8;}
+#About{background-color:#fff;}
 .about-title{font-family: 'Playfair Display', serif; margin-bottom: 2rem; padding-top: 2%;}
 .about-body{font-family: 'Quicksand', sans-serif; line-height: 10px;}
 .fa-heart{color:red;}

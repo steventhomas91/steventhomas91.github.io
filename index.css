@@ -10,7 +10,8 @@ body{text-align: center;}
 /* ABOUT SECTION */
 #About{background-color:#fff;}
 .about-title{font-family: 'Playfair Display', serif; margin-bottom: 2rem; padding-top: 2%;}
-.about-body{font-family: 'Quicksand', sans-serif; line-height: 10px;padding-top:15px;}
+.about-body{font-family: 'Quicksand', sans-serif; line-height: 10px;}
+.about-body-top-line{font-family: 'Quicksand', sans-serif; line-height: 10px;padding-top:15px;}
 .fa-heart{color:red;}
 h4{padding-bottom: 2rem; padding-top:2rem; line-height: 2px;}
 
